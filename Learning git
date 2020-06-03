@@ -1,4 +1,4 @@
 I would like to know:
 - how to clone from remote repository to a local one OK
-- how to upload from local to remote repository
+- how to upload from local to remote repository: copy the file to local repo. Then just normal git add. --> git commit -m "Note" --> git push
 - how to make changes to my files: I can make changes here in local using an app like Notepad or Pycharm OR in remote pressing "edit file"
